@@ -1,4 +1,3 @@
-# mbg_official_privacy-policy
 # **Privacy Policy**
 This Privacy Policy contains the data Mbg Official collects and what its used for.
 # **What We Collect**
